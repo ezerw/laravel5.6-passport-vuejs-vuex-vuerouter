@@ -1,0 +1,15 @@
+// Variables
+@import "variables";
+
+// Bootstrap Vue
+@import '~bootstrap-vue/dist/bootstrap-vue.css';
+
+// Bootstrap Vue overrides
+@import 'bootstrapvue_overrides';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+html, body, #app {
+  height: 100%;
+}
